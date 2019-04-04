@@ -1,0 +1,8 @@
+{
+  "name":"Common Passwords by Mozilla",
+  "version":"1.0.0",
+  "description":"Validates that a new password is at least 8 letters and is not along the most popular passwords.",
+  "require": {
+    "core": "1.9.5"
+  }
+}
